@@ -25,6 +25,10 @@
                         <a href="users.php"><i class="fa fa-users"></i> Usuarios</a>
                     </li>
 
+                    <li class="<?php if(isset($active3)){echo $active3;}?>">
+                        <a href="tutelas.php"><i class="fa fa-list-alt"></i>Tutelas</a>
+                    </li>
+
                 </ul>
             </div>
         </div><!-- /sidebar menu -->

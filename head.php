@@ -53,6 +53,7 @@
 
         <!-- MICSS button[type="file"] -->
         <link rel="stylesheet" href="css/micss.css">
+        <link rel="stylesheet" type="text/css" href="js/pnotify/pnotify.custom.min.css">
 
     </head>
 

@@ -37,6 +37,8 @@
         <script src="js/jszip/dist/jszip.min.js"></script>
         <script src="js/pdfmake/build/pdfmake.min.js"></script>
         <script src="js/pdfmake/build/vfs_fonts.js"></script>
+        <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+        <script src="js/pnotify/pnotify.custom.min.js"></script>
 
         <!-- Custom Theme Scripts -->
         <script src="js/custom.min.js"></script>
@@ -48,6 +50,8 @@
         <!-- bootstrap-daterangepicker -->
         <script src="js/moment/min/moment.min.js"></script>
         <script src="css/bootstrap-daterangepicker/daterangepicker.js"></script>
+        <script src="js/myapp.js"></script>|
+        
 
 
     </body>
